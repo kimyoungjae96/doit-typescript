@@ -1,0 +1,1 @@
+const arrow2 = (a: number, b: number): number => a+b
