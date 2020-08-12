@@ -1,0 +1,1 @@
+Promise.reject(new Error('ㅇㅔㄹㅓㅂㅏㄹㅅㅐㅇ')).catch((err: Error) => console.log('error',err.message))
