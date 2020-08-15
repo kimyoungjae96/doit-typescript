@@ -1,0 +1,33 @@
+{
+  "name": "doit-typescript",
+  "version": "1.0.0",
+  "description": "doit-typescript",
+  "main": "index.js",
+  "dependencies": {
+    "chance": "^1.1.6",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "@types/chance": "^1.1.0",
+    "@types/node": "^14.0.27",
+    "@types/ramda": "^0.27.14",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src",
+    "build": "tsc && node dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimyoungjae96/doit-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimyoungjae96/doit-typescript/issues"
+  },
+  "homepage": "https://github.com/kimyoungjae96/doit-typescript#readme",
+  "keywords": []
+}
